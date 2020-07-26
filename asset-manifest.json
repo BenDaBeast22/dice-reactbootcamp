@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dice-reactbootcamp/static/css/main.782ed6d9.chunk.css",
+    "main.js": "/dice-reactbootcamp/static/js/main.744c894b.chunk.js",
+    "main.js.map": "/dice-reactbootcamp/static/js/main.744c894b.chunk.js.map",
+    "runtime-main.js": "/dice-reactbootcamp/static/js/runtime-main.00ae6556.js",
+    "runtime-main.js.map": "/dice-reactbootcamp/static/js/runtime-main.00ae6556.js.map",
+    "static/js/2.1212b618.chunk.js": "/dice-reactbootcamp/static/js/2.1212b618.chunk.js",
+    "static/js/2.1212b618.chunk.js.map": "/dice-reactbootcamp/static/js/2.1212b618.chunk.js.map",
+    "index.html": "/dice-reactbootcamp/index.html",
+    "precache-manifest.531fe2c62cfbb183b1b32053a757dc01.js": "/dice-reactbootcamp/precache-manifest.531fe2c62cfbb183b1b32053a757dc01.js",
+    "service-worker.js": "/dice-reactbootcamp/service-worker.js",
+    "static/css/main.782ed6d9.chunk.css.map": "/dice-reactbootcamp/static/css/main.782ed6d9.chunk.css.map",
+    "static/js/2.1212b618.chunk.js.LICENSE.txt": "/dice-reactbootcamp/static/js/2.1212b618.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00ae6556.js",
+    "static/js/2.1212b618.chunk.js",
+    "static/css/main.782ed6d9.chunk.css",
+    "static/js/main.744c894b.chunk.js"
+  ]
+}
