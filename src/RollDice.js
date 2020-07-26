@@ -21,7 +21,7 @@ class RollDice extends Component{
         this.setState({die1: random1, die2: random2, rolling: true});
         setTimeout(() => {
             this.setState({rolling: false});
-        }, 1500);
+        }, 1000);
     }
     render(){
         return (
